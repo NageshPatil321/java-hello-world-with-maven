@@ -1,8 +1,4 @@
-/target
-dependency-reduced-pom.xml
-
 # Others
-.classpath
+.class
 .project
-.settings/
-.vscode
+.settings
